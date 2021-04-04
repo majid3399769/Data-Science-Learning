@@ -8,7 +8,6 @@
 
 ```
 sudo nano /etc/resolv.conf
-
 ```
 
 3. Change nameserver to 8.8.8.8. Press ctrl + x and save the conf file
