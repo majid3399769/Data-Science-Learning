@@ -14,6 +14,12 @@ sudo nano /etc/resolv.conf
 
 ![image](https://user-images.githubusercontent.com/16976444/113524019-dad67000-9579-11eb-856d-0c2b2da2906a.png)
 
+### Installing Cloudera QuickStart
+
+You can import the Cloudera QuickStart image from Docker Hub:
+```
+docker pull cloudera/quickstart:latest
+```
 
 
 # Docker Compose Tutorial 
