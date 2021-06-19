@@ -1,1 +1,6 @@
-## Basic Data Types 
+## Basic Data Types
+
+
+## Population Vs Sample size 
+
+
